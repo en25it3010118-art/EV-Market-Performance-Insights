@@ -12,7 +12,7 @@ The project transforms raw EV market data into meaningful insights using data vi
 
 🚀 **Explore the Interactive Tableau Dashboard:**
 
-[View Tableau Dashboard](https://public.tableau.com/app/profile/samarth.bhargav7236/viz/Electric_Vehicle_Market_Insights_Final/SalesGeography?publish=yes)
+[View Tableau Dashboard](https://public.tableau.com/views/EV_Market_Performance_Market_Story_2026-10-25_17935519318780/EVExecutiveDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -104,23 +104,7 @@ Tabula-Electric-Vehicle-Market-Performance-Insights/
 4. Use interactive filters to explore the data.
 5. Understand the insights presented through charts and dashboards.
 
-### Option 2: Run Locally
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/samarth-webdev/Tabula-Electric-Vehicle-Market-Performance-Insights.git
-   ```
-
-2. Open the downloaded project folder.
-
-3. Locate the Tableau packaged workbook (`.twbx`).
-
-4. Open the workbook using Tableau Desktop.
-
-5. Explore the dashboards and visualizations.
-
----
 
 ## 🎓 Learning Outcomes
 
@@ -138,15 +122,15 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Samarth Bhargav**
+**Pranjal Soni**
 
 🎓 B.Tech – Computer Science and Engineering
 
 📚 2nd Year Student
 
-🔗 **GitHub:** [samarth-webdev](https://github.com/samarth-webdev)
+🔗 **GitHub:** (https://github.com/en25it3010118-art/EV-Market-Performance-Insights)
 
-📊 **Tableau Public:** [Explore My Dashboard](https://public.tableau.com/app/profile/samarth.bhargav7236/viz/Electric_Vehicle_Market_Insights_Final/SalesGeography?publish=yes)
+📊 **Tableau Public:** [Explore My Dashboard](https://public.tableau.com/views/EV_Market_Performance_Market_Story_2026-10-25_17935519318780/EVExecutiveDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
